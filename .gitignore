@@ -2,6 +2,6 @@
 /shelf/
 .idea/workspace.xml
 secretkey.txt
-
-secret_settings.py
+#I'm makign secret settings visible for now, per The Tech Academy's request
+#secret_settings.py
 #Test
